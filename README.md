@@ -127,39 +127,9 @@ El proyecto genera automáticamente las siguientes visualizaciones:
 
 4. **Calidad vs Precio:** La relación entre rating y precio es débil, sugiriendo que el precio no necesariamente refleja la calidad percibida.
 
-## 🚀 Próximos Pasos
-
-- [ ] Análisis de series temporales de precios
-- [ ] Modelo de predicción de precios
-- [ ] Análisis de sentimientos de reviews
-- [ ] Comparación con otros mercados
-- [ ] Análisis de tendencias tecnológicas
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
+## 👨‍💻 Autor 
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-
+- GitHub: Josue Gamboa
 ## 🙏 Agradecimientos
 
-- Dataset proporcionado por la comunidad de Kaggle
-- Librerías de Python: pandas, numpy, matplotlib, seaborn
-- Comunidad de ciencia de datos por las herramientas y recursos
-
----
-
-⭐ Si este proyecto te fue útil, ¡dale una estrella en GitHub! 
